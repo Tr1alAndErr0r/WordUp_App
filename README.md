@@ -1,1 +1,1 @@
-WordUp is a word-based scrabble-esque IOS game app where you create words on a game board from a set of letter tiles. Like scrabble, words can be played horizontally and vertically. Words can also created by stacking tiles on top of each other.
+WordUp is a word-based scrabble-esque IOS game app where you create words on a game board from a set of letter tiles. Like scrabble, words can be played horizontally and vertically. Words can also be created by stacking tiles on top of each other.
